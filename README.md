@@ -4,9 +4,9 @@ Simple Note taking application that you can use to store your notes.
 
 # How to run an app
 
-Download: https://drive.google.com/file/d/1-3kSEQXqCDYEC5YkY7V0-GOFj7fjBftr/view?usp=sharing
-Unzip the files.
-Install the program and run it as administrator.
+1. Download: https://drive.google.com/file/d/1-3kSEQXqCDYEC5YkY7V0-GOFj7fjBftr/view?usp=sharing
+2. Unzip the files.
+3. Install the program and run it as administrator.
 
 # Dependencies
 - Windows
